@@ -3,13 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leben in Deutschland Test</title>
+    <title data-i18n="app_title">Leben in Deutschland Test</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="main-wrapper">
         <header>
-            <h1>Leben in Deutschland Test</h1>
+            <h1 data-i18n="app_title">Leben in Deutschland Test</h1>
+            <div class="language-switcher">
+                <button id="lang-de" class="lang-button" data-lang="de">Deutsch</button>
+                <button id="lang-al" class="lang-button" data-lang="al">Shqip</button>
+            </div>
         </header>
         <div class="container">
             <div id="test-container">
@@ -23,20 +27,20 @@
                     <h2 id="question-text"></h2>
                     <div id="answer-options"></div>
                 </div>
-                <button id="submit-btn">Submit</button>
+                <button id="submit-btn" data-i18n="submit_button">Submit</button>
             </div>
             <div id="result-container" class="hidden">
                 <h2 id="score-text"></h2>
                 <p id="pass-fail-text"></p>
                 <div id="incorrect-answers-summary">
-                    <h3>Incorrect Answers:</h3>
+                    <h3 data-i18n="incorrect_answers_title">Incorrect Answers:</h3>
                     <ul id="incorrect-answers-list"></ul>
                 </div>
-                <button id="restart-btn">Restart Test</button>
+                <button id="restart-btn" data-i18n="restart_button">Restart Test</button>
             </div>
         </div>
         <footer>
-            <p>Created by Artan.V.</p>
+            <p data-i18n="created_by">Created by Artan.V.</p>
         </footer>
     </div>
     <script src="script.js"></script>

@@ -7,7 +7,15 @@
       "die Menschen das Wahlrecht haben.",
       "hier Meinungsfreiheit gilt."
     ],
-    "answer": "hier Meinungsfreiheit gilt."
+    "answer": "hier Meinungsfreiheit gilt.",
+    "question_al": "Në Gjermani, njerëzit mund të shprehin hapur mendimin e tyre kundër qeverisë, sepse …",
+    "options_al": [
+      "këtu vlen liria e fesë.",
+      "njerëzit paguajnë taksa.",
+      "njerëzit kanë të drejtën e votës.",
+      "këtu vlen liria e shprehjes."
+    ],
+    "answer_al": "këtu vlen liria e shprehjes."
   },
   {
     "question": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …",
@@ -17,7 +25,15 @@
       "Politikunterricht teilnimmt.",
       "Sprachunterricht teilnimmt."
     ],
-    "answer": "Religionsunterricht teilnimmt."
+    "answer": "Religionsunterricht teilnimmt.",
+    "question_al": "Në Gjermani, prindërit mund të vendosin deri në moshën 14-vjeçare të fëmijës së tyre nëse ai do të marrë pjesë në shkollë në …",
+    "options_al": [
+      "mësimin e historisë.",
+      "mësimin fetar.",
+      "mësimin e politikës.",
+      "mësimin gjuhësor."
+    ],
+    "answer_al": "mësimin fetar."
   },
   {
     "question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
@@ -27,7 +43,15 @@
       "Nur Deutsche müssen die Gesetze befolgen.",
       "Die Gerichte machen die Gesetze."
     ],
-    "answer": "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten."
+    "answer": "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+    "question_al": "Gjermania është një shtet ligjor. Çfarë do të thotë kjo?",
+    "options_al": [
+      "Të gjithë banorët dhe shteti duhet t'i përmbahen ligjeve.",
+      "Shteti nuk duhet t'i përmbahet ligjeve.",
+      "Vetëm gjermanët duhet t'i zbatojnë ligjet.",
+      "Gjykatat bëjnë ligjet."
+    ],
+    "answer_al": "Të gjithë banorët dhe shteti duhet t'i përmbahen ligjeve."
   },
   {
     "question": "Welches Recht gehört zu den Grundrechten in Deutschland?",
@@ -37,7 +61,15 @@
       "Meinungsfreiheit",
       "Selbstjustiz"
     ],
-    "answer": "Meinungsfreiheit"
+    "answer": "Meinungsfreiheit",
+    "question_al": "Cila e drejtë bën pjesë në të drejtat themelore në Gjermani?",
+    "options_al": [
+      "Mbajtja e armëve",
+      "E drejta e grushtit",
+      "Liria e shprehjes",
+      "Vetëgjyqësia"
+    ],
+    "answer_al": "Liria e shprehjes"
   },
   {
     "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
@@ -47,7 +79,15 @@
       "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
       "Alle wahlberechtigten Personen müssen wählen."
     ],
-    "answer": "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben."
+    "answer": "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+    "question_al": "Zgjedhjet në Gjermani janë të lira. Çfarë do të thotë kjo?",
+    "options_al": [
+      "Lejohet të merren para nëse zgjedh një kandidat/e të caktuar.",
+      "Vetëm personat që nuk kanë qenë kurrë në burg lejohen të votojnë.",
+      "Votuesi nuk duhet të ndikohet ose detyrohet të votojë në një mënyrë të caktuar dhe nuk duhet të ketë pasoja negative nga votimi.",
+      "Të gjithë personat me të drejtë vote duhet të votojnë."
+    ],
+    "answer_al": "Votuesi nuk duhet të ndikohet ose detyrohet të votojë në një mënyrë të caktuar dhe nuk duhet të ketë pasoja negative nga votimi."
   },
   {
     "question": "Wie heißt die deutsche Verfassung?",
@@ -57,7 +97,15 @@
       "Deutsches Gesetz",
       "Grundgesetz"
     ],
-    "answer": "Grundgesetz"
+    "answer": "Grundgesetz",
+    "question_al": "Si quhet Kushtetuta gjermane?",
+    "options_al": [
+      "Ligji Popullor",
+      "Ligji Federal",
+      "Ligji Gjerman",
+      "Ligji Themelor"
+    ],
+    "answer_al": "Ligji Themelor"
   },
   {
     "question": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …",
@@ -67,7 +115,15 @@
       "Arbeit",
       "Wohnung"
     ],
-    "answer": "Glaubens- und Gewissensfreiheit"
+    "answer": "Glaubens- und Gewissensfreiheit",
+    "question_al": "Cila e drejtë bën pjesë në të drejtat themelore që garantohen sipas Kushtetutës gjermane? E drejta për …",
+    "options_al": [
+      "lirinë e besimit dhe të ndërgjegjes",
+      "argëtim",
+      "punë",
+      "banesë"
+    ],
+    "answer_al": "lirinë e besimit dhe të ndërgjegjes"
   },
   {
     "question": "Was steht nicht im Grundgesetz von Deutschland?",
@@ -77,7 +133,15 @@
       "Jeder Mensch darf seine Meinung sagen.",
       "Alle sind vor dem Gesetz gleich."
     ],
-    "answer": "Alle sollen gleich viel Geld haben."
+    "answer": "Alle sollen gleich viel Geld haben.",
+    "question_al": "Çfarë nuk shkruhet në Ligjin Themelor të Gjermanisë?",
+    "options_al": [
+      "Dinjiteti i njeriut është i paprekshëm.",
+      "Të gjithë duhet të kenë të njëjtën sasi parash.",
+      "Çdo njeri ka të drejtë të shprehë mendimin e tij.",
+      "Të gjithë janë të barabartë para ligjit."
+    ],
+    "answer_al": "Të gjithë duhet të kenë të njëjtën sasi parash."
   },
   {
     "question": "Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf …",
@@ -87,7 +151,15 @@
       "Asyl",
       "Meinungsfreiheit"
     ],
-    "answer": "Asyl"
+    "answer": "Asyl",
+    "question_al": "Cila e drejtë themelore vlen në Gjermani vetëm për të huajt? E drejta themelore për …",
+    "options_al": [
+      "mbrojtjen e familjes",
+      "dinjitetin njerëzor",
+      "azil",
+      "lirinë e shprehjes"
+    ],
+    "answer_al": "azil"
   },
   {
     "question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
@@ -97,7 +169,15 @@
       "die Todesstrafe",
       "die Geldstrafe"
     ],
-    "answer": "die Geldstrafe"
+    "answer": "die Geldstrafe",
+    "question_al": "Çfarë është në përputhje me Ligjin Themelor Gjerman?",
+    "options_al": [
+      "dënimi me shuplakë",
+      "tortura",
+      "dënimi me vdekje",
+      "gjoba"
+    ],
+    "answer_al": "gjoba"
   },
   {
     "question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
@@ -107,7 +187,15 @@
       "Gesetzbuch",
       "Verfassungsvertrag"
     ],
-    "answer": "Grundgesetz"
+    "answer": "Grundgesetz",
+    "question_al": "Si quhet kushtetuta e Republikës Federale të Gjermanisë?",
+    "options_al": [
+      "Ligji Themelor",
+      "Kushtetuta Federale",
+      "Kodi Ligjor",
+      "Traktati Kushtetues"
+    ],
+    "answer_al": "Ligji Themelor"
   },
   {
     "question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
@@ -117,7 +205,15 @@
       "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
       "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
     ],
-    "answer": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden."
+    "answer": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+    "question_al": "Një parti në Bundestagun Gjerman dëshiron të heqë lirinë e shtypit. A është e mundur kjo?",
+    "options_al": [
+      "Po, nëse më shumë se gjysma e deputetëve në Bundestag janë pro.",
+      "Po, por për këtë duhet të jenë pro dy të tretat e deputetëve në Bundestag.",
+      "Jo, sepse liria e shtypit është një e drejtë themelore. Ajo nuk mund të shfuqizohet.",
+      "Jo, sepse vetëm Bundesrati mund të shfuqizojë lirinë e shtypit."
+    ],
+    "answer_al": "Jo, sepse liria e shtypit është një e drejtë themelore. Ajo nuk mund të shfuqizohet."
   },
   {
     "question": "Im Parlament steht der Begriff \"Opposition\" für …",
@@ -127,7 +223,15 @@
       "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
       "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
     ],
-    "answer": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+    "answer": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+    "question_al": "Në Parlament, termi \"Opozitë\" qëndron për …",
+    "options_al": [
+      "partitë qeverisëse.",
+      "fraksionin me shumicën e deputetëve.",
+      "të gjitha partitë që arritën pragun 5% në zgjedhjet e fundit.",
+      "të gjithë deputetët që nuk i përkasin partisë/partive qeverisëse."
+    ],
+    "answer_al": "të gjithë deputetët që nuk i përkasin partisë/partive qeverisëse."
   },
   {
     "question": "Meinungsfreiheit in Deutschland heißt, dass ich …",
@@ -137,7 +241,15 @@
       "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
       "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
     ],
-    "answer": "meine Meinung im Internet äußern kann."
+    "answer": "meine Meinung im Internet äußern kann.",
+    "question_al": "Liria e shprehjes në Gjermani do të thotë se unë …",
+    "options_al": [
+      "mund të ofendoj kalimtarët në rrugë.",
+      "mund të shpreh mendimin tim në internet.",
+      "mund të mbaj publikisht simbole naziste, të Hamasit apo të Shtetit Islamik.",
+      "mund të shpreh mendimin tim vetëm për aq kohë sa nuk kundërshtoj qeverinë."
+    ],
+    "answer_al": "mund të shpreh mendimin tim në internet."
   },
   {
     "question": "Was verbietet das deutsche Grundgesetz?",
@@ -147,7 +259,15 @@
       "freie Berufswahl",
       "Arbeit im Ausland"
     ],
-    "answer": "Zwangsarbeit"
+    "answer": "Zwangsarbeit",
+    "question_al": "Çfarë ndalon Ligji Themelor Gjerman?",
+    "options_al": [
+      "Shërbimin ushtarak",
+      "Punën e detyruar",
+      "Zgjedhjen e lirë të profesionit",
+      "Punën jashtë vendit"
+    ],
+    "answer_al": "Punën e detyruar"
   },
   {
     "question": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
@@ -157,7 +277,15 @@
       "bei Diskussionen über Religionen",
       "bei Kritik am Staat"
     ],
-    "answer": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen"
+    "answer": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+    "question_al": "Kur kufizohet liria e shprehjes në Gjermani?",
+    "options_al": [
+      "në rastin e shpërndarjes publike të pretendimeve të rreme për individë",
+      "në rastin e shprehjes së mendimit për qeverinë federale",
+      "në rastin e diskutimeve mbi fetë",
+      "në rastin e kritikës ndaj shtetit"
+    ],
+    "answer_al": "në rastin e shpërndarjes publike të pretendimeve të rreme për individë"
   },
   {
     "question": "Die deutschen Gesetze verbieten …",
@@ -167,7 +295,15 @@
       "Versammlungsfreiheit der Einwohnerinnen und Einwohner.",
       "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
     ],
-    "answer": "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
+    "answer": "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat.",
+    "question_al": "Ligjet gjermane ndalojnë …",
+    "options_al": [
+      "lirinë e shprehjes së banorëve.",
+      "peticionet e qytetarëve.",
+      "lirinë e tubimit të banorëve.",
+      "trajtimin e pabarabartë të qytetarëve nga shteti."
+    ],
+    "answer_al": "trajtimin e pabarabartë të qytetarëve nga shteti."
   },
   {
     "question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
@@ -177,7 +313,15 @@
       "Religionsfreiheit",
       "Meinungsfreiheit"
     ],
-    "answer": "die Unantastbarkeit der Menschenwürde"
+    "answer": "die Unantastbarkeit der Menschenwürde",
+    "question_al": "Cila e drejtë themelore garantohet në nenin 1 të Ligjit Themelor të Republikës Federale të Gjermanisë?",
+    "options_al": [
+      "paprekshmëria e dinjitetit njerëzor",
+      "e drejta për jetë",
+      "liria e fesë",
+      "liria e shprehjes"
+    ],
+    "answer_al": "paprekshmëria e dinjitetit njerëzor"
   },
   {
     "question": "Was versteht man unter dem Recht der \"Freizügigkeit\" in Deutschland?",
@@ -187,7 +331,15 @@
       "Man darf sich für eine andere Religion entscheiden.",
       "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
     ],
-    "answer": "Man darf sich seinen Wohnort selbst aussuchen."
+    "answer": "Man darf sich seinen Wohnort selbst aussuchen.",
+    "question_al": "Çfarë nënkuptohet me të drejtën e \"lëvizjes së lirë\" në Gjermani?",
+    "options_al": [
+      "Mund të zgjedhësh vetë vendbanimin tënd.",
+      "Mund të ndërrosh profesionin.",
+      "Mund të zgjedhësh një fe tjetër.",
+      "Mund të lëvizësh në publik vetëm me rroba të lehta."
+    ],
+    "answer_al": "Mund të zgjedhësh vetë vendbanimin tënd."
   },
   {
     "question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …",
@@ -197,7 +349,15 @@
       "gesetzestreu.",
       "verfassungswidrig."
     ],
-    "answer": "verfassungswidrig."
+    "answer": "verfassungswidrig.",
+    "question_al": "Një parti në Gjermani ndjek qëllimin për të vendosur një diktaturë. Ajo është atëherë …",
+    "options_al": [
+      "tolerante.",
+      "e orientuar drejt shtetit ligjor.",
+      "ligjzbatuese.",
+      "jokushtetuese."
+    ],
+    "answer_al": "jokushtetuese."
   },
   {
     "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
@@ -207,7 +367,15 @@
       "Bild 3",
       "Bild 4"
     ],
-    "answer": ""
+    "answer": "",
+    "question_al": "Cila është stema e Republikës Federale të Gjermanisë?",
+    "options_al": [
+      "Figura 1",
+      "Figura 2",
+      "Figura 3",
+      "Figura 4"
+    ],
+    "answer_al": ""
   },
   {
     "question": "Was für eine Staatsform hat Deutschland?",
@@ -217,7 +385,15 @@
       "Republik",
       "Fürstentum"
     ],
-    "answer": "Republik"
+    "answer": "Republik",
+    "question_al": "Çfarë forme shtetërore ka Gjermania?",
+    "options_al": [
+      "Monarki",
+      "Diktaturë",
+      "Republikë",
+      "Principate"
+    ],
+    "answer_al": "Republikë"
   },
   {
     "question": "In Deutschland sind die meisten Erwerbstätigen …",
@@ -227,7 +403,15 @@
       "selbstständig mit einer eigenen Firma tätig.",
       "bei einer Firma oder Behörde beschäftigt."
     ],
-    "answer": "bei einer Firma oder Behörde beschäftigt."
+    "answer": "bei einer Firma oder Behörde beschäftigt.",
+    "question_al": "Në Gjermani, shumica e personave të punësuar janë …",
+    "options_al": [
+      "të punësuar në biznese të vogla familjare.",
+      "të angazhuar vullnetarisht për një shtet federal.",
+      "të vetëpunësuar me firmën e tyre.",
+      "të punësuar në një firmë ose autoritet publik."
+    ],
+    "answer_al": "të punësuar në një firmë ose autoritet publik."
   },
   {
     "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
@@ -237,7 +421,15 @@
       "16",
       "17"
     ],
-    "answer": "16"
+    "answer": "16",
+    "question_al": "Sa shtete federale ka Republika Federale e Gjermanisë?",
+    "options_al": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer_al": "16"
   },
   {
     "question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
@@ -247,7 +439,15 @@
       "Mecklenburg-Vorpommern",
       "Sachsen-Anhalt"
     ],
-    "answer": "Elsass-Lothringen"
+    "answer": "Elsass-Lothringen",
+    "question_al": "Cili nuk është një shtet federal i Republikës Federale të Gjermanisë?",
+    "options_al": [
+      "Alsasa-Lorena",
+      "Renania Veriore-Vestfalia",
+      "Meklenburg-Pomerania Perëndimore",
+      "Saksonia-Anhalti"
+    ],
+    "answer_al": "Alsasa-Lorena"
   },
   {
     "question": "Deutschland ist …",
@@ -257,7 +457,15 @@
       "eine kapitalistische und soziale Monarchie.",
       "ein sozialer und sozialistischer Bundesstaat."
     ],
-    "answer": "ein demokratischer und sozialer Bundesstaat."
+    "answer": "ein demokratischer und sozialer Bundesstaat.",
+    "question_al": "Gjermania është …",
+    "options_al": [
+      "një republikë komuniste.",
+      "një shtet federal demokratik dhe social.",
+      "një monarki kapitaliste dhe sociale.",
+      "një shtet federal social dhe socialist."
+    ],
+    "answer_al": "një shtet federal demokratik dhe social."
   },
   {
     "question": "Deutschland ist …",
@@ -267,7 +475,15 @@
       "eine Diktatur.",
       "eine Monarchie."
     ],
-    "answer": "ein Bundesstaat."
+    "answer": "ein Bundesstaat.",
+    "question_al": "Gjermania është …",
+    "options_al": [
+      "një shtet socialist.",
+      "një shtet federal.",
+      "një diktaturë.",
+      "një monarki."
+    ],
+    "answer_al": "një shtet federal."
   },
   {
     "question": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
@@ -277,7 +493,15 @@
       "das wahlberechtigte Volk",
       "die Verwaltung"
     ],
-    "answer": "das wahlberechtigte Volk"
+    "answer": "das wahlberechtigte Volk",
+    "question_al": "Kush i zgjedh deputetët për në Bundestag në Gjermani?",
+    "options_al": [
+      "ushtria",
+      "ekonomia",
+      "populli me të drejtë vote",
+      "administrata"
+    ],
+    "answer_al": "populli me të drejtë vote"
   },
   {
     "question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
@@ -287,7 +511,15 @@
       "Bär",
       "Pferd"
     ],
-    "answer": "Adler"
+    "answer": "Adler",
+    "question_al": "Cila kafshë është stema e Republikës Federale të Gjermanisë?",
+    "options_al": [
+      "Luani",
+      "Shqiponja",
+      "Ariu",
+      "Kali"
+    ],
+    "answer_al": "Shqiponja"
   },
   {
     "question": "Was ist kein Merkmal unserer Demokratie?",
@@ -297,7 +529,15 @@
       "Meinungsfreiheit",
       "verschiedene Parteien"
     ],
-    "answer": "Pressezensur"
+    "answer": "Pressezensur",
+    "question_al": "Cili nuk është një tipar i demokracisë sonë?",
+    "options_al": [
+      "zgjedhje të rregullta",
+      "censura e shtypit",
+      "liria e shprehjes",
+      "parti të ndryshme"
+    ],
+    "answer_al": "censura e shtypit"
   },
   {
     "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …",
@@ -307,7 +547,15 @@
       "Ministerium.",
       "Fraktion."
     ],
-    "answer": "Koalition."
+    "answer": "Koalition.",
+    "question_al": "Bashkëpunimi i partive për formimin e një qeverie quhet në Gjermani …",
+    "options_al": [
+      "Unitet.",
+      "Koalicion.",
+      "Ministri.",
+      "Fraksion."
+    ],
+    "answer_al": "Koalicion."
   },
   {
     "question": "Was ist keine staatliche Gewalt in Deutschland?",
@@ -317,7 +565,15 @@
       "Presse",
       "Rechtsprechung"
     ],
-    "answer": "Presse"
+    "answer": "Presse",
+    "question_al": "Cila nuk është një pushtet shtetëror në Gjermani?",
+    "options_al": [
+      "Legjislacioni",
+      "Qeveria",
+      "Shtypi",
+      "Drejtësia"
+    ],
+    "answer_al": "Shtypi"
   },
   {
     "question": "Welche Aussage ist richtig? In Deutschland …",
@@ -327,7 +583,15 @@
       "ist der Staat abhängig von den Religionsgemeinschaften.",
       "bilden Staat und Religionsgemeinschaften eine Einheit."
     ],
-    "answer": "sind Staat und Religionsgemeinschaften voneinander getrennt."
+    "answer": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+    "question_al": "Cila deklaratë është e saktë? Në Gjermani …",
+    "options_al": [
+      "shteti dhe bashkësitë fetare janë të ndara nga njëra-tjetra.",
+      "bashkësitë fetare formojnë shtetin.",
+      "shteti varet nga bashkësitë fetare.",
+      "shteti dhe bashkësitë fetare formojnë një njësi."
+    ],
+    "answer_al": "shteti dhe bashkësitë fetare janë të ndara nga njëra-tjetra."
   },
   {
     "question": "Was ist Deutschland nicht?",
@@ -337,7 +601,15 @@
       "eine Monarchie",
       "ein Sozialstaat"
     ],
-    "answer": "eine Monarchie"
+    "answer": "eine Monarchie",
+    "question_al": "Çfarë nuk është Gjermania?",
+    "options_al": [
+      "një demokraci",
+      "një shtet ligjor",
+      "një monarki",
+      "një shtet social"
+    ],
+    "answer_al": "një monarki"
   },
   {
     "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
@@ -347,7 +619,15 @@
       "Spendengeldern",
       "Vereinsbeiträgen"
     ],
-    "answer": "Sozialabgaben"
+    "answer": "Sozialabgaben",
+    "question_al": "Me çfarë e financon shteti gjerman sigurimin social?",
+    "options_al": [
+      "Taksën e kishës",
+      "Kontributet sociale",
+      "Dhurimet",
+      "Tarifat e anëtarësisë në shoqata"
+    ],
+    "answer_al": "Kontributet sociale"
   },
   {
     "question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
@@ -357,7 +637,15 @@
       "die Gebäudeversicherung",
       "die Haftpflichtversicherung"
     ],
-    "answer": "die Krankenversicherung"
+    "answer": "die Krankenversicherung",
+    "question_al": "Cila masë krijon siguri sociale në Gjermani?",
+    "options_al": [
+      "sigurimi shëndetësor",
+      "sigurimi i makinës",
+      "sigurimi i ndërtesës",
+      "sigurimi i përgjegjësisë civile"
+    ],
+    "answer_al": "sigurimi shëndetësor"
   },
   {
     "question": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
@@ -367,7 +655,15 @@
       "Senatorin/Senator",
       "Ministerpräsidentin/Ministerpräsident"
     ],
-    "answer": "Ministerpräsidentin/Ministerpräsident"
+    "answer": "Ministerpräsidentin/Ministerpräsident",
+    "question_al": "Si quhen kryetarët e qeverive të shumicës së landeve federale në Gjermani?",
+    "options_al": [
+      "Ministri i Parë/Ministrja e Parë",
+      "Kryeministri/Kryeministrja",
+      "Senatori/Senatorja",
+      "Kryeministri i Landit/Kryeministrja e Landit"
+    ],
+    "answer_al": "Kryeministri i Landit/Kryeministrja e Landit"
   },
   {
     "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …",
@@ -377,7 +673,15 @@
       "Staatenbund.",
       "Zentralstaat."
     ],
-    "answer": "Bundesstaat."
+    "answer": "Bundesstaat.",
+    "question_al": "Republika Federale e Gjermanisë është një shtet demokratik dhe social …",
+    "options_al": [
+      "lidhje shtetesh.",
+      "shtet federal.",
+      "bashkim shtetesh.",
+      "shtet qendror."
+    ],
+    "answer_al": "shtet federal."
   },
   {
     "question": "Was hat jedes deutsche Bundesland?",
@@ -387,7 +691,15 @@
       "eine eigene Armee",
       "eine eigene Regierung"
     ],
-    "answer": "eine eigene Regierung"
+    "answer": "eine eigene Regierung",
+    "question_al": "Çfarë ka çdo shtet federal gjerman?",
+    "options_al": [
+      "një ministre/ministër të jashtëm të vetin",
+      "një monedhë të vetën",
+      "një ushtri të vetën",
+      "një qeveri të vetën"
+    ],
+    "answer_al": "një qeveri të vetën"
   },
   {
     "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
@@ -397,7 +709,15 @@
       "Freude schöner Götterfunken …",
       "Deutschland einig Vaterland …"
     ],
-    "answer": "Einigkeit und Recht und Freiheit …"
+    "answer": "Einigkeit und Recht und Freiheit …",
+    "question_al": "Me çfarë fjalësh fillon himni kombëtar gjerman?",
+    "options_al": [
+      "Popuj, dëgjoni sinjalet …",
+      "Unitet dhe drejtësi dhe liri …",
+      "Gëzim, shkëlqim hyjnor …",
+      "Gjermani, atdhe i bashkuar …"
+    ],
+    "answer_al": "Unitet dhe drejtësi dhe liri …"
   },
   {
     "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
@@ -407,7 +727,15 @@
       "um politische Demonstrationen zu verhindern",
       "um wirtschaftlichen Wettbewerb anzuregen"
     ],
-    "answer": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden"
+    "answer": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+    "question_al": "Pse ka më shumë se një parti në një demokraci?",
+    "options_al": [
+      "sepse kështu përfaqësohen mendimet e ndryshme të qytetarëve",
+      "në mënyrë që korrupsioni në politikë të kufizohet",
+      "për të parandaluar demonstratat politike",
+      "për të stimuluar konkurrencën ekonomike"
+    ],
+    "answer_al": "sepse kështu përfaqësohen mendimet e ndryshme të qytetarëve"
   },
   {
     "question": "Wer beschließt in Deutschland ein neues Gesetz?",
@@ -417,7 +745,15 @@
       "die Gerichte",
       "die Polizei"
     ],
-    "answer": "das Parlament"
+    "answer": "das Parlament",
+    "question_al": "Kush e miraton një ligj të ri në Gjermani?",
+    "options_al": [
+      "qeveria",
+      "parlamenti",
+      "gjykatat",
+      "policia"
+    ],
+    "answer_al": "parlamenti"
   },
   {
     "question": "Wann kann in Deutschland eine Partei verboten werden?",
@@ -427,7 +763,15 @@
       "wenn sie Kritik am Staatsoberhaupt äußert",
       "wenn ihr Programm eine neue Richtung vorschlägt"
     ],
-    "answer": "wenn sie gegen die Verfassung kämpft"
+    "answer": "wenn sie gegen die Verfassung kämpft",
+    "question_al": "Kur mund të ndalohet një parti në Gjermani?",
+    "options_al": [
+      "nëse fushata e saj zgjedhore është shumë e shtrenjtë",
+      "nëse ajo lufton kundër Kushtetutës",
+      "nëse ajo shpreh kritikë ndaj kreut të shtetit",
+      "nëse programi i saj propozon një drejtim të ri"
+    ],
+    "answer_al": "nëse ajo lufton kundër Kushtetutës"
   },
   {
     "question": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
@@ -437,7 +781,15 @@
       "Landtagsabgeordnete",
       "Bundestagsabgeordnete"
     ],
-    "answer": "Die Bundespräsidentin/den Bundespräsidenten"
+    "answer": "Die Bundespräsidentin/den Bundespräsidenten",
+    "question_al": "Kush nuk mund të zgjidhet drejtpërdrejt nga qytetarët në Gjermani?",
+    "options_al": [
+      "deputetët e Parlamentit Europian",
+      "Presidentin Federal/Presidenten Federale",
+      "deputetët e Landtagut",
+      "deputetët e Bundestagut"
+    ],
+    "answer_al": "Presidentin Federal/Presidenten Federale"
   },
   {
     "question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
@@ -447,7 +799,15 @@
       "Hausratsversicherung",
       "Haftpflicht- und Feuerversicherung"
     ],
-    "answer": "Sozialversicherung"
+    "answer": "Sozialversicherung",
+    "question_al": "Në cilin sigurim bën pjesë sigurimi i kujdesit afatgjatë?",
+    "options_al": [
+      "Sigurimi social",
+      "Sigurimi i aksidenteve",
+      "Sigurimi i shtëpisë",
+      "Sigurimi i përgjegjësisë civile dhe i zjarrit"
+    ],
+    "answer_al": "Sigurimi social"
   },
   {
     "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
@@ -457,7 +817,15 @@
       "Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.",
       "Er produziert Autos und Busse."
     ],
-    "answer": "Er baut Straßen und Schulen."
+    "answer": "Er baut Straßen und Schulen.",
+    "question_al": "Shteti gjerman ka shumë detyra. Cila detyrë bën pjesë këtu?",
+    "options_al": [
+      "Ai ndërton rrugë dhe shkolla.",
+      "Ai shet ushqime dhe veshje.",
+      "Ai furnizon të gjithë banorët falas me gazeta.",
+      "Ai prodhon makina dhe autobusë."
+    ],
+    "answer_al": "Ai ndërton rrugë dhe shkolla."
   },
   {
     "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
@@ -467,7 +835,15 @@
       "Er unterstützt Museen.",
       "Er fördert Sportlerinnen und Sportler."
     ],
-    "answer": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen."
+    "answer": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+    "question_al": "Shteti gjerman ka shumë detyra. Cila detyrë nuk bën pjesë këtu?",
+    "options_al": [
+      "Ai paguan udhëtimet pushimi për të gjithë shtetasit.",
+      "Ai paguan pagesën për fëmijë.",
+      "Ai mbështet muzetë.",
+      "Ai mbështet sportistët."
+    ],
+    "answer_al": "Ai paguan udhëtimet pushimi për të gjithë shtetasit."
   },
   {
     "question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
@@ -477,7 +853,15 @@
       "die Bürgerversammlung",
       "die Regierung"
     ],
-    "answer": "die Bürgerversammlung"
+    "answer": "die Bürgerversammlung",
+    "question_al": "Cili organ nuk bën pjesë në organet kushtetuese të Gjermanisë?",
+    "options_al": [
+      "Bundesrati",
+      "Presidenti Federal/Presidentja Federale",
+      "Kuvendi i qytetarëve",
+      "Qeveria"
+    ],
+    "answer_al": "Kuvendi i qytetarëve"
   },
   {
     "question": "Wer bestimmt in Deutschland die Schulpolitik?",
@@ -487,7 +871,15 @@
       "das Familienministerium",
       "die Universitäten"
     ],
-    "answer": "die Bundesländer"
+    "answer": "die Bundesländer",
+    "question_al": "Kush e përcakton politikën shkollore në Gjermani?",
+    "options_al": [
+      "mësuesit dhe mësueset",
+      "shtetet federale",
+      "Ministria e Familjes",
+      "universitetet"
+    ],
+    "answer_al": "shtetet federale"
   },
   {
     "question": "Die Wirtschaftsform in Deutschland nennt man …",
@@ -497,7 +889,15 @@
       "gelenkte Zentralwirtschaft.",
       "Planwirtschaft."
     ],
-    "answer": "soziale Marktwirtschaft."
+    "answer": "soziale Marktwirtschaft.",
+    "question_al": "Forma ekonomike në Gjermani quhet …",
+    "options_al": [
+      "ekonomi e lirë qendrore.",
+      "ekonomi sociale e tregut.",
+      "ekonomi e drejtuar qendrore.",
+      "ekonomi e planifikuar."
+    ],
+    "answer_al": "ekonomi sociale e tregut."
   },
   {
     "question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
@@ -507,7 +907,15 @@
       "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
       "jemand ein Verbrechen begeht und deshalb verhaftet wird."
     ],
-    "answer": "Menschen von einer Privatpolizei ohne Grund verhaftet werden."
+    "answer": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+    "question_al": "Në një shtet ligjor demokratik nuk bën pjesë që …",
+    "options_al": [
+      "njerëzit mund të shprehen kritikisht për qeverinë.",
+      "qytetarët lejohen të demonstrojnë paqësisht.",
+      "njerëzit arrestohen pa arsye nga një polici private.",
+      "dikush kryen një krim dhe për këtë arsye arrestohet."
+    ],
+    "answer_al": "njerëzit arrestohen pa arsye nga një polici private."
   },
   {
     "question": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom ...",
@@ -517,7 +925,15 @@
       "preußischen König aus.",
       "Bundesverfassungsgericht aus."
     ],
-    "answer": "Volke aus."
+    "answer": "Volke aus.",
+    "question_al": "Çfarë do të thotë \"Sovraniteti popullor\"? I gjithë pushteti shtetëror buron nga ...",
+    "options_al": [
+      "populli.",
+      "Bundestagu.",
+      "mbreti prusian.",
+      "Gjykata Kushtetuese Federale."
+    ],
+    "answer_al": "populli."
   },
   {
     "question": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
@@ -527,7 +943,15 @@
       "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
       "Der Staat muss die Gesetze einhalten."
     ],
-    "answer": "Der Staat muss die Gesetze einhalten."
+    "answer": "Der Staat muss die Gesetze einhalten.",
+    "question_al": "Çfarë do të thotë \"Shtet ligjor\" në Gjermani?",
+    "options_al": [
+      "Shteti ka të drejtë.",
+      "Ekzistojnë vetëm parti të djathta.",
+      "Qytetarët vendosin për ligjet.",
+      "Shteti duhet të respektojë ligjet."
+    ],
+    "answer_al": "Shteti duhet të respektojë ligjet."
   },
   {
     "question": "Was ist keine staatliche Gewalt in Deutschland?",
@@ -537,7 +961,15 @@
       "Exekutive",
       "Direktive"
     ],
-    "answer": "Direktive"
+    "answer": "Direktive",
+    "question_al": "Cila nuk është një pushtet shtetëror në Gjermani?",
+    "options_al": [
+      "Legjislativi",
+      "Gjyqësori",
+      "Ekzekutivi",
+      "Direktiva"
+    ],
+    "answer_al": "Direktiva"
   },
   {
     "question": "Was zeigt dieses Bild?",
@@ -547,7 +979,15 @@
       "das Bundesratsgebäude in Berlin",
       "das Bundeskanzleramt in Berlin"
     ],
-    "answer": ""
+    "answer": "",
+    "question_al": "Çfarë tregon kjo figurë?",
+    "options_al": [
+      "selia e Bundestagut në Berlin",
+      "Gjykata Kushtetuese Federale në Karlsruhe",
+      "ndërtesa e Bundesratit në Berlin",
+      "Kancelaria Federale në Berlin"
+    ],
+    "answer_al": ""
   },
   {
     "question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
@@ -557,7 +997,15 @@
       "Finanzamt",
       "Auswärtiges Amt"
     ],
-    "answer": "Ordnungsamt"
+    "answer": "Ordnungsamt",
+    "question_al": "Cila zyrë bën pjesë në administratën komunale në Gjermani?",
+    "options_al": [
+      "Zyra e famullisë",
+      "Zyra e rendit publik",
+      "Zyra e Financave",
+      "Ministria e Jashtme"
+    ],
+    "answer_al": "Zyra e rendit publik"
   },
   {
     "question": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
@@ -567,7 +1015,15 @@
       "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler",
       "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
     ],
-    "answer": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
+    "answer": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion",
+    "question_al": "Kush zgjidhet zakonisht President i Bundestagut Gjerman?",
+    "options_al": [
+      "deputeti më i vjetër në parlament",
+      "kryeministri i landit më të madh federal",
+      "një ish-kancelare federale/ish-kancelar federal",
+      "një deputet i fraksionit më të fortë"
+    ],
+    "answer_al": "një deputet i fraksionit më të fortë"
   },
   {
     "question": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
@@ -577,7 +1033,15 @@
       "die Bundesratspräsidentin/der Bundesratspräsident",
       "die Bundestagspräsidentin/der Bundestagspräsident"
     ],
-    "answer": "die Bundespräsidentin/der Bundespräsident"
+    "answer": "die Bundespräsidentin/der Bundespräsident",
+    "question_al": "Kush i emëron ministrat e qeverisë federale në Gjermani?",
+    "options_al": [
+      "Presidenti i Gjykatës Kushtetuese Federale",
+      "Presidenti Federal/Presidentja Federale",
+      "Presidenti i Bundesratit/Presidentja e Bundesratit",
+      "Presidenti i Bundestagut/Presidentja e Bundestagut"
+    ],
+    "answer_al": "Presidenti Federal/Presidentja Federale"
   },
   {
     "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
@@ -587,7 +1051,15 @@
       "vor etwa 1150 Jahren",
       "vor etwa 1700 Jahren"
     ],
-    "answer": "vor etwa 1700 Jahren"
+    "answer": "vor etwa 1700 Jahren",
+    "question_al": "Para sa vitesh ekzistoi për herë të parë një komunitet hebre në territorin e Gjermanisë së sotme?",
+    "options_al": [
+      "para rreth 300 vitesh",
+      "para rreth 700 vitesh",
+      "para rreth 1150 vitesh",
+      "para rreth 1700 vitesh"
+    ],
+    "answer_al": "para rreth 1700 vitesh"
   },
   {
     "question": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
@@ -597,7 +1069,15 @@
       "Direktive.",
       "Judikative."
     ],
-    "answer": "Legislative."
+    "answer": "Legislative.",
+    "question_al": "Në Gjermani, Bundestagu dhe Bundesrati bëjnë pjesë në …",
+    "options_al": [
+      "Ekzekutiv.",
+      "Legjislativ.",
+      "Direktiv.",
+      "Gjyqësor."
+    ],
+    "answer_al": "Legjislativ."
   },
   {
     "question": "Was bedeutet \"Volkssouveränität\"?",
@@ -607,7 +1087,15 @@
       "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
       "Die Staatsgewalt geht vom Volke aus."
     ],
-    "answer": "Die Staatsgewalt geht vom Volke aus."
+    "answer": "Die Staatsgewalt geht vom Volke aus.",
+    "question_al": "Çfarë do të thotë \"Sovranitet popullor\"?",
+    "options_al": [
+      "Mbretëresha/Mbreti sundon mbi popullin.",
+      "Gjykata Kushtetuese Federale është mbi Kushtetutën.",
+      "Shoqatat e interesit ushtrojnë sovranitetin së bashku me qeverinë.",
+      "Pushteti shtetëror buron nga populli."
+    ],
+    "answer_al": "Pushteti shtetëror buron nga populli."
   },
   {
     "question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
@@ -617,7 +1105,15 @@
       "Europawahl",
       "Bundestagswahl"
     ],
-    "answer": "Landtagswahl"
+    "answer": "Landtagswahl",
+    "question_al": "Kur zgjidhet parlamenti i një shteti federal gjerman, kjo quhet …",
+    "options_al": [
+      "zgjedhje komunale",
+      "zgjedhje të Landtagut",
+      "zgjedhje evropiane",
+      "zgjedhje të Bundestagut"
+    ],
+    "answer_al": "zgjedhje të Landtagut"
   },
   {
     "question": "Was gehört nicht zur Exekutive?",
@@ -627,7 +1123,15 @@
       "das Finanzamt",
       "die Ministerien"
     ],
-    "answer": "die Gerichte"
+    "answer": "die Gerichte",
+    "question_al": "Çfarë nuk bën pjesë në Ekzekutiv?",
+    "options_al": [
+      "policia",
+      "gjykatat",
+      "zyra e taksave",
+      "ministritë"
+    ],
+    "answer_al": "gjykatat"
   },
   {
     "question": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
@@ -637,7 +1141,15 @@
       "16 Kantone.",
       "Bund, Länder und Kommunen."
     ],
-    "answer": "Bund, Länder und Kommunen."
+    "answer": "Bund, Länder und Kommunen.",
+    "question_al": "Republika Federale e Gjermanisë sot është e ndarë në …",
+    "options_al": [
+      "katër zona okupimi.",
+      "një shtet lindor dhe një shtet perëndimor.",
+      "16 kantone.",
+      "Federatë, Lande dhe Komuna."
+    ],
+    "answer_al": "Federatë, Lande dhe Komuna."
   },
   {
     "question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
@@ -647,7 +1159,15 @@
       "die Bundeskanzlerin/den Bundeskanzler zu wählen.",
       "das Bundeskabinett zu bilden."
     ],
-    "answer": "das Bundeskabinett zu bilden."
+    "answer": "das Bundeskabinett zu bilden.",
+    "question_al": "Nuk bën pjesë në detyrat e Bundestagut Gjerman, …",
+    "options_al": [
+      "të hartojë ligje.",
+      "të kontrollojë qeverinë federale.",
+      "të zgjedhë Kancelarin Federal/Kancelaren Federale.",
+      "të formojë Kabinetin Federal."
+    ],
+    "answer_al": "të formojë Kabinetin Federal."
   },
   {
     "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
@@ -657,7 +1177,15 @@
       "Nürnberg und Stuttgart",
       "Worms und Speyer"
     ],
-    "answer": "Berlin und München"
+    "answer": "Berlin und München",
+    "question_al": "Cilat qytete kanë komunitetet më të mëdha hebreje në Gjermani?",
+    "options_al": [
+      "Berlin dhe Mynih",
+      "Hamburg dhe Essen",
+      "Nyrëmberg dhe Shtutgart",
+      "Worms dhe Speyer"
+    ],
+    "answer_al": "Berlin dhe Mynih"
   },
   {
     "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
@@ -667,7 +1195,15 @@
       "Wirtschaftspolitik",
       "Schulpolitik"
     ],
-    "answer": "Schulpolitik"
+    "answer": "Schulpolitik",
+    "question_al": "Cila është kryesisht një detyrë e landeve federale në Gjermani?",
+    "options_al": [
+      "Politika e mbrojtjes",
+      "Politika e jashtme",
+      "Politika ekonomike",
+      "Politika shkollore"
+    ],
+    "answer_al": "Politika shkollore"
   },
   {
     "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
@@ -677,7 +1213,15 @@
       "weil es in den Bundesländern verschiedene Schulen gibt",
       "weil es nach dem Grundgesetz seine Aufgabe ist"
     ],
-    "answer": "weil es nach dem Grundgesetz seine Aufgabe ist"
+    "answer": "weil es nach dem Grundgesetz seine Aufgabe ist",
+    "question_al": "Pse shteti kontrollon sistemin shkollor në Gjermani?",
+    "options_al": [
+      "sepse në Gjermani ka vetëm shkolla shtetërore",
+      "sepse të gjithë nxënësit duhet të kenë një diplomë shkollore",
+      "sepse në shtetet federale ka shkolla të ndryshme",
+      "sepse është detyra e tij sipas Ligjit Themelor"
+    ],
+    "answer_al": "sepse është detyra e tij sipas Ligjit Themelor"
   },
   {
     "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
@@ -687,7 +1231,15 @@
       "Gemeinden",
       "Bezirksämter"
     ],
-    "answer": "Gemeinden"
+    "answer": "Gemeinden",
+    "question_al": "Republika Federale e Gjermanisë ka një strukturë administrative tre-nivele. Si quhet niveli më i ulët politik?",
+    "options_al": [
+      "Këshilltarët e qytetit",
+      "Kryetarët e qarqeve",
+      "Komunat",
+      "Zyrat e rrethit"
+    ],
+    "answer_al": "Komunat"
   },
   {
     "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?",
@@ -697,7 +1249,15 @@
       "Sie/Er wählt die Ministerinnen/Minister aus.",
       "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
     ],
-    "answer": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
+    "answer": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.",
+    "question_al": "Presidenti Federal Gjerman Gustav Heinemann i jep Helmut Schmidt-it në vitin 1974 aktin e emërimit si Kancelar Federal Gjerman. Çfarë bën pjesë në detyrat e Presidentit Federal Gjerman/Presidentes Federale Gjermane?",
+    "options_al": [
+      "Ai/Ajo drejton punët qeveritare.",
+      "Ai/Ajo kontrollon partinë qeverisëse.",
+      "Ai/Ajo zgjedh ministrat.",
+      "Ai/Ajo propozon Kancelaren/Kancelarin për zgjedhje."
+    ],
+    "answer_al": "Ai/Ajo propozon Kancelaren/Kancelarin për zgjedhje."
   },
   {
     "question": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …",
@@ -707,7 +1267,15 @@
       "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
       "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
     ],
-    "answer": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+    "answer": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+    "question_al": "Ku qëndron më shpesh Kancelarja Federale Gjermane/Kancelari Federal Gjerman? Më shpesh ai/ajo është …",
+    "options_al": [
+      "në Bon, sepse atje ndodhet Kancelaria Federale dhe Bundestagu.",
+      "në Schloss Meseberg, shtëpia e mysafirëve të qeverisë federale, për të pritur mysafirë shtetërorë.",
+      "në Schloss Bellevue, rezidenca zyrtare e Presidentit Federal/Presidentes Federale, për të pritur mysafirë shtetërorë.",
+      "në Berlin, sepse atje ndodhet Kancelaria Federale dhe Bundestagu."
+    ],
+    "answer_al": "në Berlin, sepse atje ndodhet Kancelaria Federale dhe Bundestagu."
   },
   {
     "question": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
@@ -717,7 +1285,15 @@
       "Ursula von der Leyen",
       "Friedrich Merz"
     ],
-    "answer": "Angela Merkel"
+    "answer": "Angela Merkel",
+    "question_al": "Si quhet Kancelarja Federale/Kancelari Federal aktual i Gjermanisë?",
+    "options_al": [
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Ursula von der Leyen",
+      "Friedrich Merz"
+    ],
+    "answer_al": "Angela Merkel"
   },
   {
     "question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
@@ -727,7 +1303,15 @@
       "Bündnis 90/Die Grünen und SPD.",
       "Die Linke und CDU/CSU."
     ],
-    "answer": ""
+    "answer": "",
+    "question_al": "Dy fraksionet më të mëdha në Bundestagun Gjerman aktualisht quhen …",
+    "options_al": [
+      "CDU/CSU dhe AfD.",
+      "Die Linke dhe Bündnis 90/Die Grünen.",
+      "Bündnis 90/Die Grünen dhe SPD.",
+      "Die Linke dhe CDU/CSU."
+    ],
+    "answer_al": ""
   },
   {
     "question": "Wie heißt das Parlament für ganz Deutschland?",
@@ -737,7 +1321,15 @@
       "Bundestag",
       "Bundesgerichtshof"
     ],
-    "answer": "Bundestag"
+    "answer": "Bundestag",
+    "question_al": "Si quhet parlamenti për të gjithë Gjermaninë?",
+    "options_al": [
+      "Kuvendi Federal",
+      "Dhoma Popullore",
+      "Bundestagu",
+      "Gjykata Federale e Drejtësisë"
+    ],
+    "answer_al": "Bundestagu"
   },
   {
     "question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
@@ -747,7 +1339,15 @@
       "Bodo Ramelow",
       "Joachim Gauck"
     ],
-    "answer": "Frank-Walter Steinmeier"
+    "answer": "Frank-Walter Steinmeier",
+    "question_al": "Si quhet kreu aktual i shtetit të Gjermanisë?",
+    "options_al": [
+      "Frank-Walter Steinmeier",
+      "Bärbel Bas",
+      "Bodo Ramelow",
+      "Joachim Gauck"
+    ],
+    "answer_al": "Frank-Walter Steinmeier"
   },
   {
     "question": "Was bedeutet die Abkürzung CDU in Deutschland?",
@@ -757,7 +1357,15 @@
       "Christlicher Deutscher Umweltschutz",
       "Christlich Demokratische Union"
     ],
-    "answer": "Christlich Demokratische Union"
+    "answer": "Christlich Demokratische Union",
+    "question_al": "Çfarë do të thotë shkurtimi CDU në Gjermani?",
+    "options_al": [
+      "Bashkimi Kristiano-Gjerman",
+      "Klubi i Sipërmarrësve Gjermanë",
+      "Mbrojtja Kristiane Gjermane e Mjedisit",
+      "Bashkimi Kristiano-Demokrat"
+    ],
+    "answer_al": "Bashkimi Kristiano-Demokrat"
   },
   {
     "question": "Was ist die Bundeswehr?",
@@ -767,7 +1375,15 @@
       "eine deutsche Bürgerinitiative",
       "die deutsche Armee"
     ],
-    "answer": "die deutsche Armee"
+    "answer": "die deutsche Armee",
+    "question_al": "Çfarë është Bundeswehri?",
+    "options_al": [
+      "policia gjermane",
+      "një port gjerman",
+      "një iniciativë qytetare gjermane",
+      "ushtria gjermane"
+    ],
+    "answer_al": "ushtria gjermane"
   },
   {
     "question": "Was bedeutet die Abkürzung SPD?",
@@ -777,7 +1393,15 @@
       "Sozialdemokratische Partei Deutschlands",
       "Sozialgerechte Partei Deutschlands"
     ],
-    "answer": "Sozialdemokratische Partei Deutschlands"
+    "answer": "Sozialdemokratische Partei Deutschlands",
+    "question_al": "Çfarë do të thotë shkurtimi SPD?",
+    "options_al": [
+      "Partia Socialiste e Gjermanisë",
+      "Partia Socialpolitike e Gjermanisë",
+      "Partia Socialdemokrate e Gjermanisë",
+      "Partia Sociale e Drejtë e Gjermanisë"
+    ],
+    "answer_al": "Partia Socialdemokrate e Gjermanisë"
   },
   {
     "question": "Was bedeutet die Abkürzung FDP in Deutschland?",
@@ -787,7 +1411,15 @@
       "Führende Demokratische Partei",
       "Freie Demokratische Partei"
     ],
-    "answer": "Freie Demokratische Partei"
+    "answer": "Freie Demokratische Partei",
+    "question_al": "Çfarë do të thotë shkurtimi FDP në Gjermani?",
+    "options_al": [
+      "Partia Paqësore Demonstrative",
+      "Partia e Lirë e Gjermanisë",
+      "Partia Demokratike Udhëheqëse",
+      "Partia e Lirë Demokratike"
+    ],
+    "answer_al": "Partia e Lirë Demokratike"
   },
   {
     "question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
@@ -797,7 +1429,15 @@
       "Bundesverfassungsgericht",
       "Verwaltungsgericht"
     ],
-    "answer": "Bundesverfassungsgericht"
+    "answer": "Bundesverfassungsgericht",
+    "question_al": "Cila gjykatë në Gjermani është përgjegjëse për interpretimin e Ligjit Themelor?",
+    "options_al": [
+      "Gjykata e Lartë Rajonale",
+      "Gjykata Lokale",
+      "Gjykata Kushtetuese Federale",
+      "Gjykata Administrative"
+    ],
+    "answer_al": "Gjykata Kushtetuese Federale"
   },
   {
     "question": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
@@ -807,7 +1447,15 @@
       "das Volk",
       "der Bundestag"
     ],
-    "answer": "der Bundestag"
+    "answer": "der Bundestag",
+    "question_al": "Kush e zgjedh Kancelarin Federal/Kancelaren Federale në Gjermani?",
+    "options_al": [
+      "Bundesrati",
+      "Kuvendi Federal",
+      "populli",
+      "Bundestagu"
+    ],
+    "answer_al": "Bundestagu"
   },
   {
     "question": "Wer leitet das deutsche Bundeskabinett?",
@@ -817,7 +1465,15 @@
       "die Bundesratspräsidentin/der Bundesratspräsident",
       "die Bundeskanzlerin/der Bundeskanzler"
     ],
-    "answer": "die Bundeskanzlerin/der Bundeskanzler"
+    "answer": "die Bundeskanzlerin/der Bundeskanzler",
+    "question_al": "Kush e drejton Kabinetin Federal Gjerman?",
+    "options_al": [
+      "Presidenti i Bundestagut/Presidentja e Bundestagut",
+      "Presidenti Federal/Presidentja Federale",
+      "Presidenti i Bundesratit/Presidentja e Bundesratit",
+      "Kancelari Federal/Kancelarja Federale"
+    ],
+    "answer_al": "Kancelari Federal/Kancelarja Federale"
   },
   {
     "question": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
@@ -827,7 +1483,15 @@
       "der Bundestag",
       "die Bundesregierung"
     ],
-    "answer": "der Bundestag"
+    "answer": "der Bundestag",
+    "question_al": "Kush e zgjedh Kancelarin Federal/Kancelaren Federale Gjermane?",
+    "options_al": [
+      "populli",
+      "Kuvendi Federal",
+      "Bundestagu",
+      "Qeveria Federale"
+    ],
+    "answer_al": "Bundestagu"
   },
   {
     "question": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …",
@@ -837,7 +1501,15 @@
       "repräsentiert das Land.",
       "überwacht die Einhaltung der Gesetze."
     ],
-    "answer": "repräsentiert das Land."
+    "answer": "repräsentiert das Land.",
+    "question_al": "Cila është detyra kryesore e Presidentit Federal Gjerman/Presidentes Federale Gjermane? Ai/Ajo …",
+    "options_al": [
+      "qeveris vendin.",
+      "harton ligjet.",
+      "përfaqëson vendin.",
+      "mbikëqyr respektimin e ligjeve."
+    ],
+    "answer_al": "përfaqëson vendin."
   },
   {
     "question": "Wer bildet den deutschen Bundesrat?",
@@ -847,7 +1519,15 @@
       "die Regierungsvertreter der Bundesländer",
       "die Parteimitglieder"
     ],
-    "answer": "die Regierungsvertreter der Bundesländer"
+    "answer": "die Regierungsvertreter der Bundesländer",
+    "question_al": "Kush e formon Bundesratin Gjerman?",
+    "options_al": [
+      "deputetët e Bundestagut",
+      "ministrat e qeverisë federale",
+      "përfaqësuesit e qeverive të landeve federale",
+      "anëtarët e partisë"
+    ],
+    "answer_al": "përfaqësuesit e qeverive të landeve federale"
   },
   {
     "question": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
@@ -857,7 +1537,15 @@
       "das Bundesparlament",
       "das Bundesverfassungsgericht"
     ],
-    "answer": "die Bundesversammlung"
+    "answer": "die Bundesversammlung",
+    "question_al": "Kush e zgjedh Presidentin Federal/Presidenten Federale në Gjermani?",
+    "options_al": [
+      "Kuvendi Federal",
+      "Bundesrati",
+      "Parlamenti Federal",
+      "Gjykata Kushtetuese Federale"
+    ],
+    "answer_al": "Kuvendi Federal"
   },
   {
     "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
@@ -867,7 +1555,15 @@
       "die Bundesratspräsidentin/der Bundesratspräsident",
       "die Bundestagspräsidentin/der Bundestagspräsident"
     ],
-    "answer": "die Bundespräsidentin/der Bundespräsident"
+    "answer": "die Bundespräsidentin/der Bundespräsident",
+    "question_al": "Kush është kreu i shtetit të Republikës Federale të Gjermanisë?",
+    "options_al": [
+      "Kancelarja Federale/Kancelari Federal",
+      "Presidenti Federal/Presidentja Federale",
+      "Presidentja e Bundesratit/Presidenti i Bundesratit",
+      "Presidentja e Bundestagut/Presidenti i Bundestagut"
+    ],
+    "answer_al": "Presidenti Federal/Presidentja Federale"
   },
   {
     "question": "Die parlamentarische Opposition im Deutschen Bundestag …",
@@ -877,7 +1573,15 @@
       "bestimmt, wer im Bundesrat sitzt.",
       "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
     ],
-    "answer": "kontrolliert die Regierung."
+    "answer": "kontrolliert die Regierung.",
+    "question_al": "Opozita parlamentare në Bundestagun Gjerman …",
+    "options_al": [
+      "kontrollon qeverinë.",
+      "vendos kush bëhet ministër/ministre federal/e.",
+      "përcakton kush ulet në Bundesrat.",
+      "propozon kryetarët e qeverive të landeve."
+    ],
+    "answer_al": "kontrollon qeverinë."
   },
   {
     "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
@@ -887,7 +1591,15 @@
       "Fraktion",
       "Opposition"
     ],
-    "answer": "Fraktion"
+    "answer": "Fraktion",
+    "question_al": "Si quhet në Gjermani bashkimi i deputetëve të një partie në parlament?",
+    "options_al": [
+      "Shoqatë",
+      "Këshilli i të Moshuarve",
+      "Fraksion",
+      "Opozitë"
+    ],
+    "answer_al": "Fraksion"
   },
   {
     "question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
@@ -897,7 +1609,15 @@
       "den Bundestag.",
       "die Bundesregierung."
     ],
-    "answer": "den Bundesrat."
+    "answer": "den Bundesrat.",
+    "question_al": "Shtetet federale gjermane marrin pjesë në legjislacionin federal përmes …",
+    "options_al": [
+      "Bundesratit.",
+      "Kuvendit Federal.",
+      "Bundestagut.",
+      "Qeverisë Federale."
+    ],
+    "answer_al": "Bundesratit."
   },
   {
     "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
@@ -907,7 +1627,15 @@
       "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
       "leichter, wenn es sich um ein reiches Bundesland handelt."
     ],
-    "answer": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird."
+    "answer": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+    "question_al": "Në Gjermani, një ndryshim qeverie në një shtet federal mund të ketë ndikim në politikën federale. Qeverisja bëhet …",
+    "options_al": [
+      "më e vështirë, nëse ndryshon shumica në Bundestag.",
+      "më e lehtë, nëse vijnë parti të reja në Bundesrat.",
+      "më e vështirë, nëse ndryshon shumica në Bundesrat.",
+      "më e lehtë, nëse bëhet fjalë për një shtet federal të pasur."
+    ],
+    "answer_al": "më e vështirë, nëse ndryshon shumica në Bundesrat."
   },
   {
     "question": "Was bedeutet die Abkürzung CSU in Deutschland?",
@@ -917,7 +1645,15 @@
       "Christlich Sozialer Unternehmerverband",
       "Christlich Soziale Union"
     ],
-    "answer": "Christlich Soziale Union"
+    "answer": "Christlich Soziale Union",
+    "question_al": "Çfarë do të thotë shkurtimi CSU në Gjermani?",
+    "options_al": [
+      "Bashkimi Kristiano i Sigurt",
+      "Bashkimi Kristiano-Gjerman i Jugut",
+      "Shoqata Kristiano-Sociale e Sipërmarrësve",
+      "Bashkimi Kristiano-Social"
+    ],
+    "answer_al": "Bashkimi Kristiano-Social"
   },
   {
     "question": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
@@ -927,7 +1663,15 @@
       "größer ist das Risiko, eine Koalition bilden zu müssen.",
       "mehr Sitze erhält die Partei im Parlament."
     ],
-    "answer": "mehr Sitze erhält die Partei im Parlament."
+    "answer": "mehr Sitze erhält die Partei im Parlament.",
+    "question_al": "Sa më shumë \"vota të dyta\" të marrë një parti në zgjedhjet federale, aq më shumë …",
+    "options_al": [
+      "mund të ketë më pak vota të para.",
+      "kandidatë të drejtpërdrejtë të partisë hyjnë në parlament.",
+      " është rreziku më i madh për të formuar një koalicion.",
+      "vende merr partia në parlament."
+    ],
+    "answer_al": "vende merr partia në parlament."
   },
   {
     "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
@@ -937,7 +1681,15 @@
       "21",
       "23"
     ],
-    "answer": "18"
+    "answer": "18",
+    "question_al": "Nga cila moshë lejohet të marrësh pjesë në zgjedhjet për Bundestagun Gjerman në Gjermani?",
+    "options_al": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ],
+    "answer_al": "18"
   },
   {
     "question": "Was gilt für die meisten Kinder in Deutschland?",
@@ -947,7 +1699,15 @@
       "Schweigepflicht",
       "Religionspflicht"
     ],
-    "answer": "Schulpflicht"
+    "answer": "Schulpflicht",
+    "question_al": "Çfarë vlen për shumicën e fëmijëve në Gjermani?",
+    "options_al": [
+      "Detyrimi për të votuar",
+      "Detyrimi shkollor",
+      "Detyrimi i ruajtjes së sekretit",
+      "Detyrimi fetar"
+    ],
+    "answer_al": "Detyrimi shkollor"
   },
   {
     "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
@@ -957,7 +1717,15 @@
       "gar nicht, Holocaustleugnung ist erlaubt",
       "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
     ],
-    "answer": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+    "answer": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+    "question_al": "Si mund të dënohet dikush që mohon Holokaustin?",
+    "options_al": [
+      "Ulje e shërbimeve sociale",
+      "deri në 100 orë shërbim social",
+      "aspak, mohimi i Holokaustit është i lejuar",
+      "me burgim deri në pesë vjet ose me gjobë"
+    ],
+    "answer_al": "me burgim deri në pesë vjet ose me gjobë"
   },
   {
     "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
@@ -967,7 +1735,15 @@
       "Kindergeld",
       "Wohngeld"
     ],
-    "answer": "Sozialversicherung"
+    "answer": "Sozialversicherung",
+    "question_al": "Çfarë paguhet automatikisht në Gjermani nëse je i punësuar me kontratë të përhershme?",
+    "options_al": [
+      "Sigurimi social",
+      "Ndihma sociale",
+      "Pagesa për fëmijë",
+      "Ndihma për qira"
+    ],
+    "answer_al": "Sigurimi social"
   },
   {
     "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
@@ -977,7 +1753,15 @@
       "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.",
       "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
     ],
-    "answer": "kann die Regierung ihre Mehrheit verlieren."
+    "answer": "kann die Regierung ihre Mehrheit verlieren.",
+    "question_al": "Nëse deputetët në Bundestagun Gjerman ndërrojnë fraksion, …",
+    "options_al": [
+      "nuk lejohen më të marrin pjesë në seancat e parlamentit.",
+      "qeveria mund të humbasë shumicën e saj.",
+      "Presidenti Federal/Presidentja Federale duhet të japë më parë pëlqimin e tij/saj.",
+      "votuesit e këtyre deputetëve mund të votojnë përsëri."
+    ],
+    "answer_al": "qeveria mund të humbasë shumicën e saj."
   },
   {
     "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
@@ -987,7 +1771,15 @@
       "alle Staatsangehörigen",
       "nur Arbeitgeberinnen/Arbeitgeber"
     ],
-    "answer": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer"
+    "answer": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+    "question_al": "Kush i paguan sigurimet sociale në Gjermani?",
+    "options_al": [
+      "Punëdhënësit dhe punëmarrësit",
+      "vetëm punëmarrësit",
+      "të gjithë shtetasit",
+      "vetëm punëdhënësit"
+    ],
+    "answer_al": "Punëdhënësit dhe punëmarrësit"
   },
   {
     "question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
@@ -997,7 +1789,15 @@
       "die Arbeitslosenversicherung",
       "die Pflegeversicherung"
     ],
-    "answer": "die Lebensversicherung"
+    "answer": "die Lebensversicherung",
+    "question_al": "Çfarë nuk bën pjesë në sigurimin social ligjor?",
+    "options_al": [
+      "sigurimi i jetës",
+      "sigurimi ligjor i pensioneve",
+      "sigurimi i papunësisë",
+      "sigurimi i kujdesit afatgjatë"
+    ],
+    "answer_al": "sigurimi i jetës"
   },
   {
     "question": "Gewerkschaften sind Interessenverbände der …",
@@ -1007,7 +1807,15 @@
       "Rentnerinnen und Rentner.",
       "Arbeitgeberinnen und Arbeitgeber."
     ],
-    "answer": "Arbeitnehmerinnen und Arbeitnehmer."
+    "answer": "Arbeitnehmerinnen und Arbeitnehmer.",
+    "question_al": "Sindikatat janë shoqata interesi të …",
+    "options_al": [
+      "të rinjve.",
+      "punëmarrësve.",
+      "pensionistëve.",
+      "punëdhënësve."
+    ],
+    "answer_al": "punëmarrësve."
   },
   {
     "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
@@ -1017,7 +1825,15 @@
       "Vaterländischen Verdienstorden",
       "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
     ],
-    "answer": "Bundesverdienstkreuz"
+    "answer": "Bundesverdienstkreuz",
+    "question_al": "Me çfarë mund të nderohesh në Republikën Federale të Gjermanisë, nëse ke bërë një arritje të veçantë në fushën politike, ekonomike, kulturore, intelektuale ose sociale? Me …",
+    "options_al": [
+      "Kryqin Federal të Meritës",
+      "Shqiponjën Federale",
+      "Urdhrin e Meritës Atdhetare",
+      "Titullin e Nderit \"Hero i Republikës Demokratike Gjermane\""
+    ],
+    "answer_al": "Kryqin Federal të Meritës"
   },
   {
     "question": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
@@ -1027,6 +1843,14 @@
       "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
       "der Bundestagsfraktionen von CDU und SPD"
     ],
-    "answer": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung"
+    "answer": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+    "question_al": "Çfarë quhet në Gjermani \"koalicion semafor\"? Bashkëpunimi …",
+    "options_al": [
+      "i fraksioneve të Bundestagut të CDU dhe CSU",
+      "i SPD, FDP dhe Bündnis 90/Die Grünen në një qeveri",
+      "i CSU, Die LINKE dhe Bündnis 90/Die Grünen në një qeveri",
+      "i fraksioneve të Bundestagut të CDU dhe SPD"
+    ],
+    "answer_al": "i SPD, FDP dhe Bündnis 90/Die Grünen në një qeveri"
   }
 ]

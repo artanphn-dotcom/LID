@@ -1,0 +1,66 @@
+{
+  "app_title": {
+    "de": "Leben in Deutschland Test",
+    "al": "Testi 'Jeta në Gjermani'"
+  },
+  "submit_button": {
+    "de": "Senden",
+    "al": "Dërgo"
+  },
+  "incorrect_answers_title": {
+    "de": "Falsche Antworten:",
+    "al": "Përgjigje të gabuara:"
+  },
+  "restart_button": {
+    "de": "Test neu starten",
+    "al": "Rinisni Testin"
+  },
+  "created_by": {
+    "de": "Erstellt von Artan.V.",
+    "al": "Krijuar nga Artan.V."
+  },
+  "error_loading_questions": {
+    "de": "Fehler beim Laden der Fragen. Bitte versuchen Sie es später erneut.",
+    "al": "Gabim gjatë ngarkimit të pyetjeve. Ju lutemi provoni përsëri më vonë."
+  },
+  "your_score": {
+    "de": "Ihr Ergebnis:",
+    "al": "Rezultati juaj:"
+  },
+  "you_passed": {
+    "de": "Sie haben bestanden!",
+    "al": "Ju keni kaluar!"
+  },
+  "you_failed": {
+    "de": "Sie sind durchgefallen.",
+    "al": "Ju nuk keni kaluar."
+  },
+  "your_answer": {
+    "de": "Ihre Antwort:",
+    "al": "Përgjigja juaj:"
+  },
+  "correct_answer": {
+    "de": "Richtige Antwort:",
+    "al": "Përgjigja e saktë:"
+  },
+  "no_incorrect_answers": {
+    "de": "Keine falschen Antworten. Gut gemacht!",
+    "al": "Pa përgjigje të gabuara. Punë e mirë!"
+  },
+  "question_prefix": {
+    "de": "Frage",
+    "al": "Pyetja"
+  },
+  "of_separator": {
+    "de": "von",
+    "al": "nga"
+  },
+  "language_de": {
+    "de": "Deutsch",
+    "al": "Gjermanisht"
+  },
+  "language_al": {
+    "de": "Albanisch",
+    "al": "Shqip"
+  }
+}
