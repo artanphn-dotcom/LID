@@ -1,3 +1,7 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 :root {
     --primary-color: #3498db;
     --secondary-color: #f1c40f;
@@ -8,6 +12,10 @@
     --light-text: #2c3e50;
     --dark-text: #ecf0f1;
     --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --header-bg: #2c3e50;
+    --header-text: #ecf0f1;
+    --footer-bg: #34495e;
+    --footer-text: #ecf0f1;
 }
 
 body {
@@ -16,19 +24,44 @@ body {
     color: var(--light-text);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start; /* Align to top to make space for header/footer */
     min-height: 100vh;
-    margin: 0;
+    margin: 0; /* Ensure no default body margin */
+    padding: 0; /* Ensure no default body padding */
     transition: background-color 0.3s, color 0.3s;
 }
 
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+    max-width: 800px; /* Constrain overall width */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add shadow to the whole app */
+    border-radius: 10px; /* Apply border-radius to the wrapper */
+    overflow: hidden; /* Ensures child elements respect border-radius */
+}
+
+header {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 1rem 2rem;
+    text-align: center;
+    /* Removed individual border-radius, handled by main-wrapper */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
 .container {
-    width: 90%;
-    max-width: 800px;
+    flex-grow: 1; /* Allow container to take available space */
+    width: 100%; /* Occupy full width of main-wrapper */
     background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    /* Removed individual border-radius, handled by main-wrapper */
     padding: 2rem;
+    box-shadow: none; /* Remove individual container shadow, moved to main-wrapper */
 }
 
 #progress-container {
@@ -69,11 +102,12 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    align-items: stretch; /* Ensure flex items stretch to fill the width */
 }
 
 .answer-option {
     display: block;
-    width: 100%;
+    width: 100%; /* Ensure it takes full width of its container */
     padding: 1rem;
     border: 2px solid #ddd;
     border-radius: 5px;
@@ -82,6 +116,7 @@ body {
     font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.2s, border-color 0.2s;
+    line-height: 1.4; /* Improve readability for multi-line text */
 }
 
 .answer-option:hover {
@@ -114,6 +149,7 @@ body {
     font-size: 1.2rem;
     cursor: pointer;
     transition: background-color 0.2s;
+    margin-top: 1.5rem; /* Add some space above the button */
 }
 
 #submit-btn:hover, #restart-btn:hover {
@@ -164,22 +200,62 @@ body {
     border-radius: 5px;
 }
 
+footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9em;
+    /* Removed individual border-radius, handled by main-wrapper */
+    margin-top: auto; /* Push footer to the bottom */
+}
+
 .hidden {
     display: none;
 }
 
-/* Dark Mode */
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    .container {
+        padding: 1rem;
+    }
+
+    #question-text {
+        font-size: 1.2rem;
+    }
+
+    .answer-option, #submit-btn, #restart-btn {
+        padding: 0.8rem;
+        font-size: 1rem;
+    }
+}
+
+/* Dark Mode (if implemented) */
 body.dark-mode {
     background-color: var(--dark-bg);
     color: var(--dark-text);
 }
 
+.dark-mode .main-wrapper {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode header {
+    background-color: #1a242f;
+}
+
 .dark-mode .container {
     background-color: #34495e;
+    color: var(--dark-text);
 }
 
 .dark-mode .answer-option {
     border-color: #555;
+    color: var(--dark-text);
 }
 
 .dark-mode .answer-option:hover {
@@ -189,4 +265,12 @@ body.dark-mode {
 .dark-mode .answer-option.selected {
     border-color: var(--primary-color);
     background-color: #2c3e50;
+}
+
+.dark-mode #incorrect-answers-list li {
+    background-color: #2c3e50;
+}
+
+.dark-mode footer {
+    background-color: #1a242f;
 }
