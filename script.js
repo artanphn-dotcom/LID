@@ -33,13 +33,20 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function startTest() {
-        currentQuestions = shuffleArray(allQuestions).slice(0, 33);
+        const shuffledQuestions = shuffleArray(allQuestions);
+        if (allQuestions.length >= 33) {
+            currentQuestions = shuffledQuestions.slice(0, 33);
+        }
+        else {
+            currentQuestions = shuffledQuestions;
+        }
         currentQuestionIndex = 0;
         score = 0;
         incorrectAnswers = [];
         resultContainer.classList.add('hidden');
         testContainer.classList.remove('hidden');
         showQuestion();
+        updateProgress(); // Call updateProgress when the test starts
     }
 
     function showQuestion() {
@@ -111,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
         resultContainer.classList.remove('hidden');
 
         scoreTextElement.textContent = `Your Score: ${score} / ${currentQuestions.length}`;
-        const pass = score >= 17;
+        const pass = (score / currentQuestions.length) >= 0.5;
         passFailTextElement.textContent = pass ? 'You passed!' : 'You failed.';
         passFailTextElement.classList.toggle('pass', pass);
         passFailTextElement.classList.toggle('fail', !pass);
@@ -137,9 +144,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function updateProgress() {
-        const progress = ((currentQuestionIndex) / currentQuestions.length) * 100;
+        const progress = ((currentQuestionIndex + 1) / currentQuestions.length) * 100; // Calculate progress based on 1-indexed question number
         progressBarInnerElement.style.width = `${progress}%`;
         progressTextElement.textContent = `Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
+        console.log(`Updating progress: Question ${currentQuestionIndex + 1} of ${currentQuestions.length}, Progress: ${progress}%`);
     }
 
     function shuffleArray(array) {
