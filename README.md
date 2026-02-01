@@ -12,8 +12,15 @@ At the end of the test, the application displays the user's score, whether they 
 
 ## How to run it locally
 
-1.  Clone this repository or download the files to your local machine.
-2.  Open the `index.html` file in your web browser.
+To run this application, you need to use a local web server. This is because modern web browsers have security restrictions (CORS policy) that prevent web pages from loading local files directly.
+
+Here's how you can run a simple web server using Python (which is usually pre-installed on macOS and Linux):
+
+1.  Open a terminal or command prompt in this directory.
+2.  Run the following command: `python -m http.server`
+3.  Open your web browser and go to the following address: [http://localhost:8000](http://localhost:8000)
+
+If you don't have Python installed, you can use other local server solutions, like the "Live Server" extension for Visual Studio Code.
 
 ## `questions.json`
 
@@ -33,4 +40,5 @@ The `questions.json` file contains the question pool for the test. It is an arra
 ```
 
 You can easily extend the question set by adding more question objects to the `questions.json` file.
+# LID
 # LID
