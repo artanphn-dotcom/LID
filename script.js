@@ -33,8 +33,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function startTest() {
-        const shuffledQuestions = shuffleArray(allQuestions);
-        if (allQuestions.length >= 33) {
+        const questionsToShuffle = [...allQuestions]; // Create a shallow copy
+        const shuffledQuestions = shuffleArray(questionsToShuffle);
+        if (questionsToShuffle.length >= 33) {
             currentQuestions = shuffledQuestions.slice(0, 33);
         }
         else {
@@ -151,7 +152,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function shuffleArray(array) {
-        return array.sort(() => Math.random() - 0.5);
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+        }
+        return array;
     }
 
     submitBtn.addEventListener('click', submitAnswer);

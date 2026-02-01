@@ -39,7 +39,9 @@ The `questions.json` file contains the question pool for the test. It is an arra
 }
 ```
 
-You can easily extend the question set by adding more question objects to the `questions.json` file.
+**Important Note:** Due to technical limitations (e.g., website security measures, direct access restrictions), I was unable to automatically fetch the official "Leben in Deutschland" test questions from online sources.
+
+You will need to populate the `questions.json` file manually with the desired question set. You can find the official questions on the website of the Bundesamt für Migration und Flüchtlinge (BAMF) or other reputable sources. Please ensure your `questions.json` file is a valid JSON array of question objects.
 # LID
 # LID
 # LID
